@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-29T21:37:15.311754",
+  "timestamp": "2025-09-01T21:36:58.431346",
   "ticker": "AMAT",
   "data_points": 2485,
   "latest_signal": {
@@ -12,7 +12,7 @@
     "signal_strength": 5.742340779587199,
     "confidence": "LOW",
     "price": 160.76,
-    "timestamp": "2025-08-29T21:37:14.213860"
+    "timestamp": "2025-09-01T21:36:57.380182"
   },
   "backtest_metrics": {
     "total_return_%": 167.88463576526112,
