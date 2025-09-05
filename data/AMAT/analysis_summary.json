@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-09-04T21:37:39.785133",
+  "timestamp": "2025-09-05T21:37:21.614168",
   "ticker": "AMAT",
-  "data_points": 2488,
+  "data_points": 2489,
   "latest_signal": {
-    "date": "2025-09-04",
+    "date": "2025-09-05",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.3401861002870183,
-    "oscillator_value": -17.802875,
-    "signal_strength": 14.636093325534548,
-    "confidence": "LOW",
-    "price": 158.24,
-    "timestamp": "2025-09-04T21:37:38.638506"
+    "phase_value": -2.2978297941481856,
+    "oscillator_value": -16.629875000000027,
+    "signal_strength": 57.11788248922634,
+    "confidence": "MEDIUM",
+    "price": 162.75,
+    "timestamp": "2025-09-05T21:37:20.472431"
   },
   "backtest_metrics": {
-    "total_return_%": 167.88463576526112,
+    "total_return_%": 168.41936549481673,
     "max_drawdown_%": 3.902824190854959,
-    "sharpe_ratio": 1.5278576484427182,
-    "sortino_ratio": 1.2606356906474034,
-    "calmar_ratio": 9.155200794515139,
+    "sharpe_ratio": 1.5287389742238209,
+    "sortino_ratio": 1.2632753957747451,
+    "calmar_ratio": 9.174371305598093,
     "total_trades": 13,
     "win_rate_%": 84.61538461538461,
-    "profit_factor": 15.499831343121599
+    "profit_factor": 15.54531046127149
   },
   "cycle_analysis": {
     "dominant_period": 84.0,
