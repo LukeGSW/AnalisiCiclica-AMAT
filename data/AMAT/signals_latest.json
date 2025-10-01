@@ -1,12 +1,12 @@
 {
-  "date": "2025-09-30",
+  "date": "2025-10-01",
   "signal": "SELL",
   "position": "FLAT",
   "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-  "phase_value": 0.4922421533331574,
-  "oscillator_value": 21.30562500000002,
-  "signal_strength": 50.987935163007336,
+  "phase_value": 0.5432301320981585,
+  "oscillator_value": 24.301874999999967,
+  "signal_strength": 60.797141801831124,
   "confidence": "MEDIUM",
-  "price": 204.74,
-  "timestamp": "2025-09-30T21:37:46.229034"
+  "price": 217.74,
+  "timestamp": "2025-10-01T21:37:31.393332"
 }
