@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-11-27T21:38:09.508663",
+  "timestamp": "2025-11-28T21:38:34.208752",
   "ticker": "AMAT",
-  "data_points": 2547,
+  "data_points": 2548,
   "latest_signal": {
-    "date": "2025-11-26",
+    "date": "2025-11-28",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 1.3656152863444335,
-    "oscillator_value": 2.862124999999992,
-    "signal_strength": 35.60167513883391,
+    "phase_value": 1.2166042216534032,
+    "oscillator_value": 5.047625000000011,
+    "signal_strength": 36.223334783678155,
     "confidence": "MEDIUM",
-    "price": 249.97,
-    "timestamp": "2025-11-27T21:38:08.175207"
+    "price": 252.25,
+    "timestamp": "2025-11-28T21:38:32.816883"
   },
   "backtest_metrics": {
     "total_return_%": 186.95857942736117,
